@@ -52,7 +52,7 @@ async function loadFeed(page = 1) {
     const POSTS_PER_PAGE = 5;
 
     try {
-        const response = await fetch('src/data-base.json');
+        const response = await fetch('./src/data-base.json');
         const data = await response.json();
         let posts = data.paginas[0].posts;
 
