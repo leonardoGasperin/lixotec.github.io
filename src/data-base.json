@@ -10,6 +10,28 @@
             "conteudo1": "123Quer que eu prepare também uma versão mais institucional (com foco em credibilidade e dados) e uma versão mais emocional (com foco em engajamento e comunidade), para você escolher qual se encaixa melhor no tom do site?",
             "video0": "9sH-I4QVYe0",
             "imagem0": "https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/69076/18485987_1341517965931654_5336525942496789991_n.jpg"
+        },
+        {
+            "id": 2,
+            "titulo0": "Bem-vindo à LixoTec",
+            "titulo1": "referência ambiental e social.",
+            "conteudo0": "Somos uma iniciativa socioambiental de Foz do Iguaçu dedicada a dar um destino correto aos resíduos eletrônicos e transformar o que seria lixo em oportunidade. Há mais de uma década, trabalhamos para unir sustentabilidade, tecnologia e inclusão digital, coletando equipamentos, promovendo a reciclagem responsável e doando computadores e peças reaproveitadas para quem mais precisa. Nosso propósito é simples: cuidar do planeta e gerar impacto positivo na comunidade. Aqui você vai encontrar notícias, projetos, oficinas e histórias que mostram como pequenas atitudes podem gerar grandes mudanças.",
+            "conteudo1": "Quer que eu prepare também uma versão mais institucional (com foco em credibilidade e dados) e uma versão mais emocional (com foco em engajamento e comunidade), para você escolher qual se encaixa melhor no tom do site?",
+            "video0": "Ym3qM6OahBA",
+            "imagem0": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8AcRC1bv-NCjZaHXI8aSaLDzq8kvT-h_8iw&s"
+        },
+        {
+          "id": 3,
+          "titulo0": "EXEMPLO teste.",
+          "titulo1": "PROXIMO titulo",
+          "titulo2": "Tituo extra",
+          "conteudo0": "conteudo exemplo",
+          "conteudo1": "mais um conteudo",
+          "conteudo2": "contudo extra",
+          "video0": "Ym3qM6OahBA",
+          "video1": "9sH-I4QVYe0",
+          "imagem0": "https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/project/uploaded_image/69076/18485987_1341517965931654_5336525942496789991_n.jpg",
+          "imagem1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8AcRC1bv-NCjZaHXI8aSaLDzq8kvT-h_8iw&s",
         }
       ]
     }
